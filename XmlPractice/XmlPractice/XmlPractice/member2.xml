@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMember xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Member>
+    <Name>John</Name>
+    <Email>john@gmail.com</Email>
+    <Age>30</Age>
+    <JoiningDate>2023-03-17T14:13:49.2897158+02:00</JoiningDate>
+    <IsPlatinumMember>false</IsPlatinumMember>
+  </Member>
+  <Member>
+    <Name>Peter</Name>
+    <Email>peter@gmail.com</Email>
+    <Age>35</Age>
+    <JoiningDate>2023-03-17T14:13:49.2928154+02:00</JoiningDate>
+    <IsPlatinumMember>true</IsPlatinumMember>
+  </Member>
+  <Member>
+    <Name>David</Name>
+    <Email>david@gmail.com</Email>
+    <Age>25</Age>
+    <JoiningDate>2023-03-17T14:13:49.2928211+02:00</JoiningDate>
+    <IsPlatinumMember>true</IsPlatinumMember>
+  </Member>
+  <Member>
+    <Name>George</Name>
+    <Email>george@gmail.com</Email>
+    <Age>29</Age>
+    <JoiningDate>2023-03-17T14:13:49.2928214+02:00</JoiningDate>
+    <IsPlatinumMember>false</IsPlatinumMember>
+  </Member>
+</ArrayOfMember>
